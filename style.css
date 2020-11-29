@@ -1,0 +1,13 @@
+.navbar{
+    background-color: white !important;
+}
+
+.container{
+    margin-top: 20px;
+}
+.carousel-item{
+    padding: 50px 40px;
+}
+.bg{
+    background-color: tomato;
+}
