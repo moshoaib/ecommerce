@@ -1,13 +1,78 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
 .navbar{
     background-color: white !important;
 }
-
 .container{
-    margin-top: 20px;
+    margin-bottom: 80px;
 }
 .carousel-item{
     padding: 50px 40px;
 }
-.bg{
+/* .bg{
     background-color: tomato;
+} */
+.buynow{
+    background-color: black;
+    border: none;
+    color: white;
+    border-radius: 5px;
+    padding: 10px 20px;
 }
+
+.card{
+    border: none;
+    border-radius: 15px;
+    box-shadow: 5px 5px 10px lightgray;
+
+}
+
+.card-body, .card-footer{
+    text-align: center;
+}
+
+.card-deck{
+    margin-top: 50px;
+}
+.card-footer{
+    border-top: none;
+    background-color: white;
+}
+
+.details-text, .card-text{
+    color:#707070;
+}
+.categories-title{
+    text-align: center;
+    align-items: center;
+}
+svg{
+    align-items: center;
+}
+.b1{
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 2px 2px 10px lightgray;
+    text-align: center;
+    width: 200px;
+    height: 200px;
+}
+.categories{
+    height: 500px;
+}
+.categories-component{
+    margin-top: 50px;
+}
+
+.second-box-row{
+    margin-left: 20px;
+}
+.b2{
+    text-align: center;
+}
+.b3{
+    margin-top: 50px;;
+}
+
